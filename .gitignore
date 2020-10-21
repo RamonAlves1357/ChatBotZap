@@ -1,3 +1,7 @@
+# My Ignores
+tokens
+out.png
+
 # Logs
 logs
 *.log

@@ -1,0 +1,28 @@
+{
+    "name": "ChatBotZap",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node configBot.js",
+        "test": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RamonAlves1357/ChatBotZap.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RamonAlves1357/ChatBotZap/issues"
+    },
+    "homepage": "https://github.com/RamonAlves1357/ChatBotZap#readme",
+    "dependencies": {
+        "sulla": "^2.3.14",
+        "venom-bot": "^2.0.16"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
